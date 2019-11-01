@@ -1,2 +1,2 @@
-# lc-2019-11-01
-Library Carpentries Test Repo
+# Library Carpentries Test Repo
+This is a test repo for Library Carpentry Data Workshop on Nov 1, 2019
